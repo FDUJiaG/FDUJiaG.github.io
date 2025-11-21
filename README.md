@@ -1,5 +1,7 @@
-# CN Zoomer Values
+# IMessi Values
 
-CN Zoomer Values 是一个专为简中互联网上的玩网小登设计的意识形态测试，通过 8 个维度来评估你在简中互联网潮流中的抽象程度。
+IMessi Values 是一个专为简中互联网设计的梅西人迷测试器，通过 8 个维度来评估你在简中互联网中崇拜西西哥哥的程度。
 
-项目由 Claude、DeepSeek、Gemini 和 GPT 协作完成。
+项目由 Claude、DeepSeek、Gemini 、 GPT 和 God Hua 协作完成。
+
+特别致谢，四川 IMei 唐殿虞的支持

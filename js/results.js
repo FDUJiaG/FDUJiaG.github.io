@@ -352,7 +352,7 @@ $(document).ready(async () => {
             });
 
             const link = document.createElement('a');
-            link.download = 'CNZoomerValuesResult.png';
+            link.download = 'IMessiValuesResult.png';
             link.href = canvas.toDataURL('image/png');
             document.body.appendChild(link);
             link.click();
@@ -364,10 +364,10 @@ $(document).ready(async () => {
         }
     });
 
-    // --- Retake Quiz Button Handler ---
+    // --- Retake MeiTest Button Handler ---
     $('#refresh').click(() => {
-        localStorage.removeItem('quizState_v2');
-        console.log("Cleared quiz state for retake.");
-        window.location.href = 'quiz.html';
+        localStorage.removeItem('iMeiTestState_v2');
+        console.log("Cleared iMeiTest state for retake.");
+        window.location.href = 'iMeiTest.html';
     });
 });
